@@ -1,1 +1,1 @@
-# school_study2
+# HTML/CSSによるWEBサイト構築
