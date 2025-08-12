@@ -50,7 +50,8 @@ Web開発の基礎からデータベース連携まで、実践的なプログ�
 - Flexbox、CSS Gridを使った柔軟なレイアウト
 - レスポンシブデザインの実装
 
-
+<br>
+<br>
 
 ---
 
@@ -75,12 +76,6 @@ Demo画面
 -
 
 
-Demo画面
-<br><br>
-
-![Image](https://github.com/user-attachments/assets/886ea93a-73a9-4bb2-b454-3f7109bfea64)
-
-<br><br>
 
 
 **実行環境について**
