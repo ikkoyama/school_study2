@@ -1,1 +1,1 @@
-# HTML/CSSによるWEBサイト制作
+# HTML/CSSを使用したWEBサイト制作
