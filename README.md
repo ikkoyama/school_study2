@@ -24,6 +24,7 @@ Web開発の基礎からデータベース連携まで、実践的なプログ�
 |----------|------|
 | **フロントエンド** | HTML, CSS, JavaScript |
 | **バックエンド** | Java, JSP, サーブレット |
+| **Webサーバー** | Apache Tomcat |
 | **データベース** | SQL, H2 Database |
 | **開発環境** | Eclipse |
 | **バージョン管理** | Git, GitHub |
