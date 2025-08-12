@@ -1,6 +1,6 @@
-# ポートフォリオ
+# ポートフォリオDEMO
 
-未経験からエンジニアを目指して学習中の ikkoyama です。  
+未経験からWEBエンジニアを目指して学習中の ikkoyama です。  
 職業訓練校での学習成果と制作物を紹介いたします。
 
 ## 学習履歴
@@ -27,7 +27,8 @@ Web開発の基礎からデータベース連携まで、実践的なプログ�
 
 ## 制作物
 
-### 🎨 HTML/CSSを使用したWEBサイト制作
+### HTML/CSSを使用したWEBサイト制作
+
 ![Image](https://github.com/user-attachments/assets/886ea93a-73a9-4bb2-b454-3f7109bfea64)
 
 **概要**  
