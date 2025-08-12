@@ -50,6 +50,8 @@ Web開発の基礎からデータベース連携まで、実践的なプログ�
 ---
 
 ### 🛒 ログイン機能を装備したECサイト
+
+Demo画面
 ![Image](https://github.com/user-attachments/assets/886ea93a-73a9-4bb2-b454-3f7109bfea64)
 **概要**  
 ユーザー認証機能を持つ本格的なEコマースサイトを制作。商品の閲覧・購入からユーザー管理まで、実際のECサイトに必要な機能を実装しています。
@@ -59,4 +61,6 @@ Web開発の基礎からデータベース連携まで、実践的なプログ�
 - ✅ 商品一覧・詳細表示
 - ✅ ショッピングカート機能
 -
+
+Demo画面
 ![Image](https://github.com/user-attachments/assets/886ea93a-73a9-4bb2-b454-3f7109bfea64)
